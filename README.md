@@ -1,3 +1,7 @@
+## Bonjour, content de vous voir ici !
+Développeur à la base, je me suis tourné vers le monde du test, un monde tout aussi passionnant.  
+J'aime beaucoup travailler en équipe, et je serais content de travailler avec vous !
+
 | **🧪 Compétences de Testing** |<img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> <img src="https://img.shields.io/badge/Robot%20Framework-_-white?logo=robotframework&logoColor=black&labelColor=white"> |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **🌐 Compétences Web**       | <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> <img src="https://img.shields.io/badge/ASP.NET-0F3662"> |
