@@ -3,6 +3,9 @@ Développeur à la base, je me suis tourné vers le monde du test, un monde tout
 J'aime beaucoup travailler en équipe, et je serais content de travailler avec vous !
 
 <br>
+N'hésitez pas à jeter un oeil à mes compétences :
+<br>
+<br>
 
 | Compétences | Techno & Outils |
 |-----------|---------|
